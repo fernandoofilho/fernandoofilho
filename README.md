@@ -1,5 +1,5 @@
 ### Olá, mundo! Eu sou Fernando Filho. 🤙🏻
-Sou um desenvolvedor Junior entusiasmado por Data Analytics e Inteligência Artificial.
+Sou um desenvolvedor Fullstack entusiasmado por Data Analytics e Inteligência Artificial.
 
 
 Na minha página do LinkedIn você pode ter acesso a diversos cursos que fiz, além de mais detalhes dos meus trabalhos, projetos tech e artigos que publiquei durante minha graduação em Engenharia da Computação. 😃
